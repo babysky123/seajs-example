@@ -1,0 +1,18 @@
+.seajs-hello-wrap {
+	margin:100px;
+	height:50px;
+	overflow:visible;
+}
+
+.seajs-hello-wrap img {
+	position:relative;
+	-webkit-transition-property: -webkit-transform;
+	-moz-transition-property:-moz-transform;
+	-o-transition-property:-o-transform;
+	-ms-transition-property:-ms-transform;
+	-webkit-transition-duration: 0.8s;
+	-moz-transition-duration:0.8s;
+	-o-transition-duration:0.8s;
+	-ms-transition-duration:0.8s;
+	opacity:0.6
+}
